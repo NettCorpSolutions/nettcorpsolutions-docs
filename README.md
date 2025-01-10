@@ -1,4 +1,4 @@
-![Logo do NettCorpSolutions](docs//img/NettCorpSolutions%20-%20logo.png)
+![Logo do NettCorpSolutions](docs//img/banner-docs.png)
 
 Bem-vindo ao NettCorpSolutions! Este projeto é uma plataforma completa para usuários que desejam solicitar desenvolvimento ou manutenção de sites, além de outros serviços relacionados à web. Nossa solução oferece uma interface amigável e um backend robusto para gerenciar todas as solicitações de forma eficiente.
 
